@@ -1,4 +1,4 @@
-# Forecasting Concurrent User for Online Radio Stream]
+# Forecasting Concurrent User for Online Radio Stream
 
 ## Repository Link
 
