@@ -14,7 +14,7 @@ Predicting/Forecasting
 
 ### Results Summary
 
-- **Best Model:** XGBoost_optimized
+- **Best Model:** XGBoost_optimized {'learning_rate': 0.25, 'max_depth': 5, 'n_estimators': 25, 'seed':42} # rest of hyperparameter are default
 - **Evaluation Metric:** MSE, MAE, R2, Explained Variance
 - **Result:**
   - **MSE**: 2622.032948
